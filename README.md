@@ -4,6 +4,8 @@
 <p align="center">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <!-- JPA -->
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
   <!-- Spring Boot -->
