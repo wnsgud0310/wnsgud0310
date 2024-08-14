@@ -17,7 +17,7 @@
   <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
-##  💬SNS & BLOG
+💬SNS & BLOG
 
 <p align="left">
   <!-- Gmail -->
