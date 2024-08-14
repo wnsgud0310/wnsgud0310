@@ -1,10 +1,11 @@
 <p align="center">
   <h2>📖 Learning</h2>
 </p>
+
 <p align="center">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-   <!-- MySQL -->
+  <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -19,9 +20,11 @@
   <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
+
 <p align="center">
   <h2>💬 SNS & BLOG</h2>
 </p>
+
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:ffjjo0310@gmail.com" target="_blank">
@@ -36,6 +39,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true" alt="Junhyeong's GitHub Stats" />
 </p>
