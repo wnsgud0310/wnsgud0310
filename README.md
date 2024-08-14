@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <!-- 방문자 카운터 -->
+  <img src="https://komarev.com/ghpvc/?username=wnsgud0310&color=blue" alt="Visitor Count" />
+</p>
+
+<hr>
 
 <div align="center">
-  <h2>📖Skills in Progress</h2>
+  <h2>📖 Skills in Progress</h2>
 </div>
+
 <p align="center">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -28,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 </p>
 
+<hr>
 
 <div align="center">
   <h2>💬 SNS & BLOG</h2>
@@ -48,9 +56,8 @@
   </a>
 </p>
 
+<hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true" alt="Junhyeong's GitHub Stats" />
 </p>
-
-
-
