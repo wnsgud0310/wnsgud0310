@@ -46,3 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true" alt="Junhyeong's GitHub Stats" />
 </p>
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME&bg_color=282c34&title_color=61dafb&text_color=c9d1d9&icon_color=79ff97&border_color=ffffff)
+
+
