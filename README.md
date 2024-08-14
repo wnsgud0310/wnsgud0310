@@ -33,5 +33,5 @@
   </a>
 </p>
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
 </p>
