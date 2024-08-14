@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>📖Skills in Progress/h2>
+  <h2>📖Skills in Progress</h2>
 </div>
 <p align="center">
   <!-- Java -->
