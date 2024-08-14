@@ -57,5 +57,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true" alt="Junhyeong's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=transparent&show_icons=true" alt="Junhyeong's GitHub Stats" />
 </p>
