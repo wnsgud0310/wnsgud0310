@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h2>📖 Learning</h2>
-</p>
+</div>
 
 <p align="center">
   <!-- Java -->
@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
-<p align="center">
+<div align="center">
   <h2>💬 SNS & BLOG</h2>
-</p>
+</div>
 
 <p align="center">
   <!-- Gmail -->
