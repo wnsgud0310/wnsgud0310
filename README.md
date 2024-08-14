@@ -1,4 +1,6 @@
-## 📖 Learning
+<p align="center">
+  <h2>📖 Learning</h2>
+</p>
 <p align="center">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -17,7 +19,9 @@
   <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
-💬SNS & BLOG
+<p align="center">
+  <h2>💬 SNS & BLOG</h2>
+</p>
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:ffjjo0310@gmail.com" target="_blank">
