@@ -32,9 +32,8 @@
 
 <hr>
 
-<div align="center">
   <h2>💬 SNS & BLOG</h2>
-</div>
+
 
 <p align="center">
   <!-- Gmail -->
