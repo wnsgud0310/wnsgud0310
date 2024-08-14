@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>📖 Learning</h2>
+  <h2>💻Tech Stack</h2>
 </div>
 <p align="center">
   <!-- Java -->
