@@ -8,7 +8,7 @@
 </p>
 
 
-<hr>
+<hr style="border: 2px solid #00FF00;">
 
 <div align="center">
   <h2>📖 Skills in Progress</h2>
