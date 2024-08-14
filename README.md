@@ -33,5 +33,5 @@
   </a>
 </p>
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true" alt="Junhyeong's GitHub Stats" />
 </p>
