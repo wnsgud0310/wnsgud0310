@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JunhyeongGithub%20render&fontSize=90)
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 <!--
