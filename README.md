@@ -1,5 +1,4 @@
 ## 📖 Learning
-
 <p align="left">
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -19,4 +18,12 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
+## 🌐 Connect with Me
+
+<p align="left">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ffjjo0310@gmail.com)
+  [![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://wnsgud0310.tistory.com/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wnsgud_00)
+</p>
