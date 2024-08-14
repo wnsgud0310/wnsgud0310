@@ -19,12 +19,4 @@
   <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
-## 📊 GitHub Stats
-
-![Junhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&show_icons=true&theme=radical)
