@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=wnsgud0310&color=blue" alt="Visitor Count" />
 </p>
 
-<!-- 구분선을 삭제 -->
-<!-- <hr> 이 부분이 구분선입니다. -->
+<hr>
 
 <div align="center">
   <h2>📖 Skills in Progress</h2>
