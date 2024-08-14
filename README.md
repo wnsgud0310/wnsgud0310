@@ -20,10 +20,19 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
-## 🌐 Connect with Me
+##  💬SNS & BLOG
 
 <p align="left">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ffjjo0310@gmail.com)
-  [![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://wnsgud0310.tistory.com/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wnsgud_00)
+  <!-- Gmail -->
+  <a href="mailto:ffjjo0310@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- Tistory Blog -->
+  <a href="https://wnsgud0310.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/wnsgud_00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
