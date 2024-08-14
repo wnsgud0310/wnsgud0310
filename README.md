@@ -17,9 +17,6 @@
   <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
 ##  💬SNS & BLOG
 
 <p align="left">
@@ -36,3 +33,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=ambient_gradient&show_icons=true)
