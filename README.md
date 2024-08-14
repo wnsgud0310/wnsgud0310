@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- 방문자 카운터 -->
-  <img src="https://komarev.com/ghpvc/?username=wnsgud0310&color=blue" alt="Visitor Count" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=skyblue&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
