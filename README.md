@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://68.media.tumblr.com/956d06a473dd0a4ff919b5e52f526b84/tumblr_o1pwpylg1i1qzk2upo1_500.gif" alt="GIF 이미지 설명"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=skyblue&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
