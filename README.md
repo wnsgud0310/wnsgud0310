@@ -2,10 +2,10 @@
   <img src="https://i.pinimg.com/originals/38/1b/f8/381bf8783a92248bc4bb99d4350912b1.gif" alt="GIF 이미지 설명"/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=green&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
 </p>
-
+-->
 
 
 <hr>
