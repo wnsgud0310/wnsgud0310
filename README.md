@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://68.media.tumblr.com/956d06a473dd0a4ff919b5e52f526b84/tumblr_o1pwpylg1i1qzk2upo1_500.gif" alt="GIF 이미지 설명"/>
+  <img src="https://i.pinimg.com/originals/aa/07/9a/aa079a278acac107e4dd0d3e0140baa9.gif" alt="GIF 이미지 설명"/>
+  
 </div>
 
 <!-- <p align="center">
