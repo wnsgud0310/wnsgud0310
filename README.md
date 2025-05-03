@@ -1,64 +1,62 @@
-<!--
-<div align="center">
-  <img src="https://i.pinimg.com/originals/aa/07/9a/aa079a278acac107e4dd0d3e0140baa9.gif" alt="GIF 이미지 설명"/> 
-</div>
--->
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=green&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG">
-</p>
--->
+<!-- GitHub README: 깔끔하고 감각적인 블랙&화이트 버전 -->
 
-<hr>
-
-<div align="center">
-  <h2>📖 Skills in Progress</h2>
-</div>
-
+<!-- 인사말 타이핑 효과 -->
 <p align="center">
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <!-- JPA -->
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
-  <!-- Spring Boot -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Junhyeong!;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-</p>
+---
 
-<hr>
-
+<!-- 기술 스택 -->
 <div align="center">
-  <h2>💬 SNS & BLOG</h2>
+
+  <strong style="font-size: 22px;">⚙️ Tech Stack</strong>
+  
+  <p>
+    <!-- 백엔드 -->
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+    <br>
+    <!-- DevOps -->
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <br>
+    <!-- 프론트엔드 -->
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </p>
 </div>
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:ffjjo0310@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <!-- Tistory Blog -->
-  <a href="https://wnsgud0310.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/wnsgud_00" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+---
 
-<hr>
+<!-- SNS & 블로그 -->
+<div align="center">
+  <strong style="font-size: 22px;">📬 SNS & Blog</strong>
+  <p>
+    <a href="mailto:ffjjo0310@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wnsgud0310.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/wnsgud_00" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&theme=transparent&show_icons=true" alt="Junhyeong's GitHub Stats" />
-</p>
+---
+
+<!-- GitHub 통계 -->
+<div align="center">
+  <strong style="font-size: 22px;">📈 GitHub Stats</strong>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&show_icons=true&theme=graywhite&hide_title=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=wnsgud0310&theme=graywhite&hide_border=false" />
+  </p>
+</div>
