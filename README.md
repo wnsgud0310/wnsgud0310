@@ -1,11 +1,3 @@
-<!-- GitHub README: 깔끔하고 감각적인 블랙&화이트 버전 -->
-
-<!-- 인사말 타이핑 효과 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=500&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Junhyeong!;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
-</p>
-
----
 
 <!-- 기술 스택 -->
 <div align="center">
