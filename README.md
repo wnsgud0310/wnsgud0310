@@ -55,10 +55,11 @@
 
 ---
 
-<!-- 📊 깃허브 통계 -->
+<!--  깃허브 통계 -->
 <div align="center">
-  <strong style="font-size: 20px;">📊 GitHub Stats</strong>
+  <p style="margin-top: 12px;">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&show_icons=true&theme=graywhite&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgud0310&layout=compact&theme=default" />
   </p>
 </div>
