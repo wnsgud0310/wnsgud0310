@@ -27,7 +27,7 @@
 
 <!-- 🤝 협업 도구 -->
 <div align="center">
-  <strong style="font-size: 26px;">🤝 Cowork Tools</strong>
+  <strong style="font-size: 26px;">🤝 Collaboration Tools</strong>
   <p style="margin-top: 12px;">
   <p>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -41,7 +41,7 @@
 <!-- 📬 연락처 -->
 <div align="center">
   <strong style="font-size: 26px;">📬 Contact</strong>
-  
+  <p style="margin-top: 12px;">
   <p>
     <a href="mailto:ffjjo0310@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
