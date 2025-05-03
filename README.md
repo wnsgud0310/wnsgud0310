@@ -32,7 +32,8 @@
   <p>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" />
+
   </p>
 </div>
 
@@ -46,9 +47,9 @@
     <a href="mailto:ffjjo0310@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://wnsgud0310.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
-    </a>
+ <a href="https://wnsgud0310.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-EFEFEF?style=for-the-badge&logo=tistory&logoColor=black" />
+</a>
   </p>
 </div>
 
