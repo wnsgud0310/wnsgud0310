@@ -59,6 +59,5 @@
   <strong style="font-size: 20px;">📊 GitHub Stats</strong>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wnsgud0310&show_icons=true&theme=graywhite&hide_title=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=wnsgud0310&theme=graywhite&hide_border=false" />
   </p>
 </div>
