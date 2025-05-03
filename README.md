@@ -1,7 +1,7 @@
 
 <!-- ⚙️ 기술 스택 -->
 <div align="center">
-  <strong style="font-size: 26px;">⚙️ Tech Stack</strong>
+  <h3 align="center">🛠️ Tech Stack</h3>
   <p style="margin-top: 12px;">
   <p>
     <!-- Backend -->
@@ -27,7 +27,7 @@
 
 <!-- 🤝 협업 도구 -->
 <div align="center">
-  <strong style="font-size: 26px;">🤝 Collaboration Tools</strong>
+  <h3 align="center">🤝 Collaboration Tools</h3>
   <p style="margin-top: 12px;">
   <p>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -41,7 +41,7 @@
 
 <!-- 📬 연락처 -->
 <div align="center">
-  <strong style="font-size: 26px;">📬 Contact</strong>
+   <h3 align="center">📬 Contact</h3>
   <p style="margin-top: 12px;">
   <p>
     <a href="mailto:ffjjo0310@gmail.com" target="_blank">
