@@ -47,9 +47,6 @@
     <a href="mailto:ffjjo0310@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
- <a href="https://wnsgud0310.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-EFEFEF?style=for-the-badge&logo=tistory&logoColor=black" />
-</a>
   </p>
 </div>
 
