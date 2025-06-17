@@ -2,7 +2,7 @@
 <!-- ⚙️ 기술 스택 -->
 <div align="center">
   <h3 align="center">🛠️ Tech Stack</h3>
-  <p style="margin-top: 12px;">
+  <p style="margin-top: 13px;">
   <p>
     <!-- Backend -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
